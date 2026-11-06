@@ -1,4 +1,8 @@
 # VotV-AriralMenu-Port
+# CURRENT STATE
+# BUILD NOW SO SHIT AS WELL AND I DONT KNOW WHY
+# IF YOU TRYNA TO EXPLORE CHEAT DONT EXPLORE IT ON 010 TUTORIAL BECAUSE IT ALWAYS BREAKS ONLY IN TUTORIAL
+# I WILL MAKE 09 PORT BUT LATER
 Full port of AriralMenu on 010(original version was builded on 08) it raw and it just work something new i didnt added because i already port it later i will add something i sometimes made with claude and i dont know where bugs lmao if you found dm me on discord @imyawn xDD sorry i dont made a release page im too lazy 😭😭😭😭😭lmao 
 original debug == https://github.com/vyollet/Voice-of-the-Void-Debug-Mode
 
