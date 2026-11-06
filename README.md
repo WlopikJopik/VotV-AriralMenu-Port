@@ -1,8 +1,6 @@
 # VotV-AriralMenu-Port
 # CURRENT STATE
-BUILD NOW SO SHIT AS WELL AND I DONT KNOW WHY
-IF YOU TRYNA TO EXPLORE CHEAT DONT EXPLORE IT ON 010 TUTORIAL BECAUSE IT ALWAYS BREAKS ONLY IN TUTORIAL
-I WILL MAKE 09 PORT BUT LATER
+build of 010 port SOOOO SHIT its laggy AND I DONT KNOW WHY i checked all and i dont find reason i will wait full night because my claude limits gone and i dont recomend you to download 010 rn
 # BIO
 Full port of AriralMenu on 010(original version was builded on 08) it raw and it just work something new i didnt added because i already port it later i will add something i sometimes made with claude and i dont know where bugs lmao if you found dm me on discord @imyawn xDD sorry i dont made a release page im too lazy 😭😭😭😭😭lmao 
 original debug == https://github.com/vyollet/Voice-of-the-Void-Debug-Mode
@@ -10,9 +8,6 @@ original debug == https://github.com/vyollet/Voice-of-the-Void-Debug-Mode
 # PROOFS
 menu
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/09b5eec6-de3d-4c33-be1f-3fd952068ff5" />
-in game
-
-WAIT PLS IM PLAYIN DEADLOCK
 
 VirusTotal Check
 <img width="1919" height="987" alt="Screenshot 2026-11-06 235942" src="https://github.com/user-attachments/assets/a521d257-6b17-4bd1-ab66-5e3b1e294cbd" />
